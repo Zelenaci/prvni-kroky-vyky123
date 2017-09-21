@@ -1,4 +1,4 @@
-Online zdroje
+Online zdroje               Tomáš Vykydal \|/
 =======================
 
  * Velice zdařila komunitní stránka je <http://python.cz>. Najdete tu vše, co 
